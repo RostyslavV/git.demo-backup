@@ -1,7 +1,15 @@
 sword and spear
+<<<<<<< HEAD
 wall of shields
 standing strong 
 on this their chosen battle field
 
 From the lines
 Shield by shield
+||||||| 44f447f
+wall of shields
+=======
+wall of shields
+standing strong 
+on this their chosen battle field
+>>>>>>> c2d6c66208cff503826e3e6e1fd9d14099e1ad44
